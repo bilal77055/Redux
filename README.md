@@ -1,0 +1,2 @@
+# Redux
+structure of redux
